@@ -10,6 +10,14 @@
 * HTML
 * CSS
 
+Este curso abordou os seguintes tópicos:  
+1. Iniciando o projeto  
+2. A dupla HTML e CSS  
+3. Posicionando elementos  
+4. Finalizando nossa página  
+5. Compartilhando o projeto  
+CH: 8hs  
+
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 
