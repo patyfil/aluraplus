@@ -12,3 +12,6 @@
 
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
+
+
+[Confira o deploy](https://patyfil.github.io/aluraplus/)
