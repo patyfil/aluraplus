@@ -17,6 +17,8 @@ Este curso abordou os seguintes tópicos:
 4. Finalizando nossa página  
 5. Compartilhando o projeto  
 CH: 8hs  
+6. [Layout responsivo](https://cursos.alura.com.br/extra/alura-mais/transformando-um-site-em-responsivo-c1601)  
+
 
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
